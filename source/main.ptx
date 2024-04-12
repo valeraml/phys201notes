@@ -4,12 +4,26 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="phys-201-notes">
+    <title>Elements of Physics (Phys 201) Notes</title>
+    <subtitle>Lecture Notes</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
+
+    <part xml:id="part-0-math-review">
+      <title>Module 0, Math Review</title>
+      <xi:include href="./ch01-algebra.ptx"/>
+      <xi:include href="./ch02-trigonometry.ptx"/>
+    </part>
+
+    <part xml:id="part-1-kinematics">
+      <title>Module 0, Math Review</title>
+      <xi:include href="./ch11-measure-coord-position.ptx"/>
+      <xi:include href="./ch12_displacement_velocity_acceleration.ptx" />
+      <xi:include href="./ch13_1d_kinematics.ptx" />
+      <xi:include href="./ch14_2d_kinematics.ptx" />"
+    </part>
 
     <!-- Include chapters -->
     <xi:include href="./ch-chapter-title.ptx" />
