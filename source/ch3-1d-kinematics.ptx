@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="ch3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> One Dimensional Kinematics </title>
+    <introduction>
+        <p>
+            This is chapter 6
+        </p>
+    </introduction>
+
+    <section xml:id="sec-constant-acceleration">
+        <title>Motion with Constant Acceleration</title>
+        
+    </section>
+
+    <section xml:id="sec-solving-problems-1d">
+        <title>Solving One-Dimenstional-Problems</title>
+        
+    </section>
+
+    <section xml:id="sec-free-fall">
+        <title>Free Fall</title>
+        
+    </section>
+
+</chapter>

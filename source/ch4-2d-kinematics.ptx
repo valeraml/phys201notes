@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="ch4" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> Two Dimensional Kinematics </title>
+    <introduction>
+        <p>
+            This is chapter 7
+        </p>
+    </introduction>
+
+    <section xml:id="sec-vectors">
+        <title>Vectors</title>
+        
+    </section>
+
+    <section xml:id="sec-motion-two-dimensions">
+        <title>Motion in Two Dimensions</title>
+        
+    </section>
+
+    <section xml:id="sec-projectile-motion">
+        <title>Projectile Motion</title>
+        
+    </section>
+
+</chapter>

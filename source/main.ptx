@@ -5,28 +5,50 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="phys-201-notes">
-    <title>Elements of Physics (Phys 201) Notes</title>
-    <subtitle>Lecture Notes</subtitle>
+    <title>Elements of Physics I Notes</title>
+    <subtitle>Lecture Notes for Phys 201</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <part xml:id="part-0-math-review">
-      <title>Module 0, Math Review</title>
-      <xi:include href="./ch01-algebra.ptx"/>
-      <xi:include href="./ch02-trigonometry.ptx"/>
-    </part>
 
     <part xml:id="part-1-kinematics">
-      <title>Module 0, Math Review</title>
-      <xi:include href="./ch11-measure-coord-position.ptx"/>
-      <xi:include href="./ch12_displacement_velocity_acceleration.ptx" />
-      <xi:include href="./ch13_1d_kinematics.ptx" />
-      <xi:include href="./ch14_2d_kinematics.ptx" />"
+      <title>Kinematics</title>
+      <xi:include href="./ch1-motion.ptx"/>
+      <xi:include href="./ch2-displacement-velocity-acceleration.ptx" />
+      <xi:include href="./ch3-1d-kinematics.ptx" />
+      <xi:include href="./ch4-2d-kinematics.ptx" />"
     </part>
 
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <part xml:id="part-2-dynamics">
+      <title>Dynamics</title>
+      <xi:include href="./ch5-forces.ptx"/>
+      <xi:include href="./ch6-newtons-laws-applications.ptx"/>
+      <xi:include href="./ch7-newtons-third-law.ptx"/>
+      <xi:include href="./ch8-impulse-momentum.ptx"/>
+    </part>
+
+    <part xml:id="part-3-rotations">
+      <title>Rotational Motion, Equilibrium</title>
+      <xi:include href="./ch9-rotational-kinematics.ptx"/>
+      <xi:include href="./ch10-rotational-dynamics.ptx"/>
+      <xi:include href="./ch11-equilibrium.ptx"/>
+    </part>
+
+    <part xml:id="part-4-energy-and-fluids">
+      <title>Energy and Fluids</title>
+      <xi:include href="./ch12-work-kinetic-potential.ptx"/>
+      <xi:include href="./ch13-energy-equation-power.ptx"/>
+      <xi:include href="./ch14-fluids.ptx"/>
+    </part>
+
+    <part xml:id="part-5-math-review">
+      <title>Math Review</title>
+      <xi:include href="./review1-algebra.ptx"/>
+      <xi:include href="./review2-trigonometry.ptx"/>
+      <xi:include href="./review3-functions-graphs.ptx"/>
+    </part>
+
 
 
     <!-- Include backmatter -->

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="ch2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> Displacement, Velocity, Acceleration </title>
+    <introduction>
+        <p>
+            This is chapter 5
+        </p>
+    </introduction>
+
+    <section xml:id="sec-displacement">
+        <title>Change in Position: Displacement</title>
+        
+    </section>
+
+    <section xml:id="sec-velocity">
+        <title>Velocity, Uniform Motion</title>
+        
+    </section>
+
+    <section xml:id="sec-instantenuous-velocity">
+        <title>Instantenuous Velocity</title>
+        
+    </section>
+
+    <section xml:id="sec-acceleration">
+        <title>Acceleration</title>
+        
+    </section>
+
+    <section xml:id="sec-motion-raphical-representation">
+        <title>Motion: Graphical Representation</title>
+        
+    </section>
+
+
+
+
+</chapter>

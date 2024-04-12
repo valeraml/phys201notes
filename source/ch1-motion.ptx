@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="ch1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> Motion </title>
+    <introduction>
+        <p>
+            In this chapter, we will study how to describe and represent motion
+
+        </p>
+    </introduction>
+
+    <section xml:id="sec-motion">
+        <title>Motion</title>
+        <p>
+            We will define motion as the change in position or orientation of an object.
+            We will study 4 types of motions in this course:
+            <ul>
+                <li>
+                    <p>
+                        Straight Line Motion
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Two dimensional Motion (Projectile motion, Circular motion)
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Rotational Motion
+                    </p>
+                </li>
+            </ul>
+        </p>
+    
+        
+        
+    </section>
+
+    <section xml:id="sec-position-time">
+        <title>Position and Time</title>
+        
+    </section>
+
+    <section xml:id="sec-units">
+        <title>Units</title>
+        
+    </section>
+
+</chapter>

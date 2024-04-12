@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="review2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> Trigonometry Review </title>
+    <introduction>
+        <p>
+            This is chapter 3
+        </p>
+    </introduction>
+
+</chapter>
