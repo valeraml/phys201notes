@@ -4,9 +4,35 @@
     <title> Motion </title>
     <introduction>
         <p>
-            In this chapter, we will study how to describe and represent motion
+            In this chapter, we will study how to describe and represent motion. 
+            This area of physics is called <em> Kinematics </em>. We are only concern with the
+            motion of the particle and not the causes. The key concepts to understand are
+            <ul>
+                <li>
+                    <p>
+                        <b> Position </b>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b> Discplacement </b>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Velocity and instantaneous velocity
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Acceleration
+                    </p>
+                </li>
+            </ul>
 
         </p>
+        In this section, we will define motion and position. We also need to idea of coordinate system and units to
+        be able to use numbers to express our results and predictions
     </introduction>
 
     <section xml:id="sec-motion">
@@ -32,8 +58,37 @@
                 </li>
             </ul>
         </p>
+
+        <figure>
+            <caption>Types of Motion</caption>
+            <interactive xml:id="kinematics" platform="jsxgraph" aspect="6:7" source="https://cdn.jsdelivr.net/npm/jsxgraph/distrib/jsxgraphcore.js code/mod1/motion.js">
+              <sidebyside widths="40% 40%" margins="5%">
+                  <slate xml:id="linear_jxgbox" surface="jsxboard" aspect="1:1"/>
+                  <slate xml:id="proj_jxgbox" surface="jsxboard" aspect="1:1" />
+              </sidebyside>
+              <sidebyside widths="40% 40%" margins="5%">
+                  <slate xml:id="circular_jxgbox" surface="jsxboard" aspect="1:1" />
+                  <slate xml:id="rot_jxgbox" surface="jsxboard" aspect="1:1" />
+              </sidebyside>
+              <instructions xml:id="kinematics-instructions">
+                <p>
+                  Use the time slider in the top panel to vary the time from 0 sec to 6 sec.
+                  Observe how the displacement, velocity,
+                  and acceleration vary with time.
+                </p>
+              </instructions>
+              <static>
+                <image source="images/kinematics.png" width="60%" />
+              </static>
+            </interactive>
+          </figure>
     
         
+        
+    </section>
+
+    <section xml:id="sec-Coordinate-System">
+        <title>Coordinate System</title>
         
     </section>
 
